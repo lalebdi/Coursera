@@ -1,3 +1,3 @@
 # Coursera
 Testing testing
-I am editing the README file. Adding some more details 
+I am editing the README file. Adding some more
